@@ -5,10 +5,15 @@ In this repository I have created a simple chat bot which is capable of taking t
 INTRODUCTION:
 	This chatbot takes the input from the user ad returns the output. I have giving the data science wikipedia page as the input to the chatbot. This basic chat bot returns the related sentence from the input
 
+
 FEATURES:
 	This intracts effectively eith the users
+
+
 DEPENDENCIES:
 	This chatbot uses librsries like NumPy, String, Random, NLTK(Natural Language ToolKit)
+
+    
 WORKING:
 	1. Importing Libraries: The code starts by importing the neccesary libraries like Nu	Numpy, String, Random, NLTK(Natural Language Toolkit)
 	2. Reading Corpuses: It reads the contents of "chatbot.txt",which contains the 	content of "data science" wikipedia page
